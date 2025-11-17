@@ -1,0 +1,13 @@
+python-telegram-bot==22.5
+apscheduler==3.10.4
+psutil
+mss
+opencv-python
+numpy
+pytz
+pywin32
+pynput
+sounddevice
+wavio
+flask
+pyngrok

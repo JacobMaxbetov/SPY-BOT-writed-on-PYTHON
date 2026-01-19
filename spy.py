@@ -46,7 +46,7 @@ logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s -
 logger = logging.getLogger(__name__)
 
 # === БОТ ===
-TOKEN = "7245286150:AAFpD9XIoRJLn2U5DdUCdZYu6fbiKzXwI1I"
+TOKEN = "8304065663:AAHJKeL70SiwtqXQkPx6Jhels0SoU37ATZI"
 ADMIN_ID = 2019878139
 TIMEZONE = pytz.timezone('Europe/Moscow')
 COMMAND_HISTORY = []
